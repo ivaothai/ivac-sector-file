@@ -91,6 +91,9 @@ out += `${metadata.ratio[1]}\n`;
 out += `${metadata.magVar}\n`;
 out += `${metadata.include}\n`;
 
+out += '[COLORSCHEME]\n';
+out += `F;${metadata.colorscheme}\n`;
+
 // TODO: DEFINE
 out += '[ATC]\n';
 
