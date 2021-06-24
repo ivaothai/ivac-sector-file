@@ -1,5 +1,12 @@
 [
   {
+    "ident": "MORA",
+    "name": "GRID MORA",
+    "lonx": 100.6056900024414,
+    "laty": 13.914372444152832,
+    "mag_var": -0.7472538352012634
+  },
+  {
     "ident": "VTBD",
     "name": "Don Mueang Intl",
     "tower_frequency": 118100,
