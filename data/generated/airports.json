@@ -1,5 +1,14 @@
 [
   {
+    "ident": "MORA",
+    "name": "GRID MORA",
+    "lonx": 100,
+    "laty": 11,
+    "mag_var": -0.7472538352012634,
+    "altitude": 9,
+	"runways": []
+  },
+  {
     "ident": "VTBD",
     "name": "Don Mueang Intl",
     "tower_frequency": 118100,
